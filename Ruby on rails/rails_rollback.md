@@ -16,7 +16,7 @@ rails db:rollback STEP=3
 
 ## リセットについて
 
-データベースをリセットする場合、**$ rails db:reset**と**$ rails db:migrate:reset**の2通りある。
+データベースをリセットする場合、**$ rails db:reset** と **$ rails db:migrate:reset**の2通りある。
 ```
 $ rails db:reset
 ```
