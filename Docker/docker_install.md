@@ -1,4 +1,4 @@
-### bundle installをする際
+# bundle installをする際
 
 ```
 $ docker compose up -d
